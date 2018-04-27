@@ -2,6 +2,8 @@
 
 A cool (at least I think) D3 visualization of all events at the Bok Center in the past school year!
 
+[Click here to see it in action!](https://blou.me/bok/966/)
+
 ## Screenshot
 
 ![screenshot](/screenshot.png?raw=true)
